@@ -1,0 +1,17 @@
+
+num 2
+void main() {
+ var associations = [
+                  {'name': 'IS', 'description': 'Information Systems'},
+                  {'name': 'CS', 'description': 'Computer Science'}
+                  ];
+
+  var members = [
+             {'associationName': 'IS', 'firstName': 'Dzenan', 'lastName': 'Ridjanovic', 'email': 'dr@gmail.com'},
+             {'associationName': 'CS', 'firstName': 'David', 'lastName': 'Curtis', 'email': 'dc@gmail.com'},
+             {'associationName': 'IS', 'firstName': 'Robert', 'lastName': 'Nelson', 'email': 'rn@gmail.com'}
+             ];
+
+print(members);
+  
+}

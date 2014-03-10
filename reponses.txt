@@ -1,0 +1,1 @@
+#1 Entrer le nombre de phrases voulues dans la fonction et elle s'occupe du reste.
